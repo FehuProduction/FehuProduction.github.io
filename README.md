@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -9,7 +8,7 @@
 </head>
 
 <body>
-  Hello world
+ google.com, pub-7479207168552135, DIRECT, f08c47fec0942fa0
   <script src="script.js"></script>
 
   <!--
